@@ -3,7 +3,7 @@
 # Follow the commands and run in terminal
 
 1. Go to frontend folder directory and run
-    >> npm i \n
+    >> npm i <br />
     >> npm run build
 2. Go to backend folder directory and run
     >> npm i
